@@ -52,5 +52,5 @@ Olá, me chamo Tiago Santos, sou de Balsas/Ma, Brasil e estou me capacitando par
   
 
   
-
+[
 ![Tiago Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats)
