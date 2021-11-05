@@ -18,20 +18,13 @@ Atualmente eu sou estudante de Desenvolvimento Web - cursando o módulo back-end
 
   
 
-- 👨🏽‍💻 Estou estudando as Stacks do **back-end** (NodeJs, SQL, Mongodb, Express, Sequelize, e aplicando a arquitetura de software MSC e MVC);
+- 👨🏽‍💻 Estou estudando as Stacks do **back-end** 
 
 
-  
-
-
+- 💬 Pergunte-me sobre qualquer coisa, me amarro em ajudar as pessoas
 
   
-
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar as pessoas;
-
-  
-
-- 📫 Para me encontrar, me envie um email em tiago881@gmail.com ;
+- 📫 Para me encontrar, me envie um email em tiago881@gmail.com 
 
   
 
