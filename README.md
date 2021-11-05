@@ -63,5 +63,6 @@ Atualmente eu sou estudante de Desenvolvimento Web - cursando o módulo back-end
 ![Tiago Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
   
 [
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) [
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobalsas)
+](https://github.com/anuraghazra/github-readme-stats) [
 ![Tiago Santos GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
