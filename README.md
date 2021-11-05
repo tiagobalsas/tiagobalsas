@@ -30,7 +30,7 @@ Atualmente eu sou estudante de Desenvolvimento Web - cursando o módulo back-end
 
   
 
-## Tecnologias que ando estudando:
+## Tecnologias que estou estudando:
 
   
 
