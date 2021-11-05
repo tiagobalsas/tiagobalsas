@@ -61,8 +61,10 @@ Atualmente eu sou estudante de Desenvolvimento Web - cursando o módulo back-end
 [![LinkedIn](https://camo.githubusercontent.com/aa13eb9656dd96b3c50c8b5ab96c77511dcb9245d95cd95572ea0a1e6af94da5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333041363643322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e647373696c76612f)](https://www.linkedin.com/in/tiago-nogueira-dos-santos/)  
 [
 ![Tiago Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
+ [
+![Tiago Santos GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
+
   
 [
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobalsas)
-](https://github.com/anuraghazra/github-readme-stats) [
-![Tiago Santos GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
+](https://github.com/anuraghazra/github-readme-stats)
