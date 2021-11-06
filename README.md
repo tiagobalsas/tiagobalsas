@@ -6,7 +6,7 @@
 
 Me chamo Tiago Santos, noivo da Julye Marino, e juntos formamos uma família de humanos, 🐶 (Zebedeu) e 😺 (Chicó, Virgulino, Dona Moça, Penelope, Corisco e Zeluís).
 
-Sou natural de Balsas/Ma, mas atualmente moro em Araguaína, no estado do Tocantins.  Eu me amarro em animais, creio que já perceberam isso rsss.  Além desse afeto por animais, eu também sou apaixonado por tecnologia e dela estou trilhando para me tornar um desenvolvedor Web. 
+Sou natural de Balsas/Ma, mas atualmente moro em Araguaína, no estado do Tocantins.  Eu me amarro em animais, creio que já perceberam isso rsss.  Além desse afeto por animais, eu também sou apaixonado por tecnologia e dela estou trilhando um caminho para me tornar um desenvolvedor Web. 
 
 Decidi me tornar um desenvolvedor Web não só pela atração, mas também pelos benefícios, como liberdade geográfica, liberdade financeira. Além de todas essas vantagens, eu me orgulho muito em saber que posso criar ferramentas que serão uteis para outras pessoas, e esse é meu foco, poder ajudar pessoas por meio da tecnologia.
 
