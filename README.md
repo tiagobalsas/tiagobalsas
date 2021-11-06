@@ -8,7 +8,7 @@ Me chamo Tiago Santos, noivo da Julye Marino, e juntos formamos uma família de 
 
 Sou natural de Balsas/Ma, mas atualmente moro em Araguaína, no estado do Tocantins.  Eu me amarro em animais, creio que já perceberam isso rsss.  Além desse afeto por animais, eu também sou apaixonado por tecnologia e dela estou trilhando um caminho para me tornar um desenvolvedor Web. 
 
-Decidi me tornar um desenvolvedor Web não só pela atração, mas também pelos benefícios, como liberdade geográfica, liberdade financeira. Além de todas essas vantagens, eu me orgulho muito em saber que posso criar ferramentas que serão uteis para outras pessoas, e esse é meu foco, poder ajudar pessoas por meio da tecnologia.
+Decidi me tornar um desenvolvedor Web não só pela atração, mas também pelos benefícios, como liberdade geográfica, liberdade financeira entre outros privilégios. Além de todas essas vantagens, eu me orgulho muito em saber que como programador web eu posso criar ferramentas que serão uteis para outras pessoas, e esse é mais um motivo que me faz continuar estudando,quero ter o privilegio de ajudar as pessoas por meio da tecnologia.
 
 Atualmente eu sou estudante de Desenvolvimento Web - cursando o módulo back-end - na escola de programação, [Trybe](https://www.betrybe.com/),  na qual já adquiri bastante conhecimentos em hard skills e soft skills. Durante a jornada de estudos na Trybe, eu pude conquistar meritrocamente e com ajuda dos colegas, muitas vezes, as minhas formações em Fundamentos do Desenvolvimento Web e Front-end. 
 
