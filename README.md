@@ -39,7 +39,6 @@
 
 
 ## Histórico de atividades
-[
-![Tiago Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobalsas)](https://github.com/anuraghazra/github-readme-stats) 
+![Tiago Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobalsas&show_icons=true&theme=dracula)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobalsas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobalsas&layout=compact&theme=dracula)
