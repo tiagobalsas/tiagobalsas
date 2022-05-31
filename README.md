@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tiago-nogueira-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-nogueira-dos-santos" height="30" width="40" /></a>
 
-<h3 align="center">Atualmente eu sou estudante de Desenvolvimento Web Full-Stack na Trybe</h3> 
+<h3 align="center">Desenvolvedor Web Full-Stack formado pela Trybe</h3> 
 
   
 
