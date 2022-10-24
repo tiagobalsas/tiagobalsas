@@ -3,16 +3,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tiago-nogueira-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-nogueira-dos-santos" height="30" width="40" /></a>
 
-<h3 align="center">Desenvolvedor Web Full-Stack formado pela Trybe</h3> 
+<h3 align="center">Desenvolvedor Web Full-Stack</h3> 
 
   
 
-## Sobre
+
 
   
-
-- 🌱 Estou  estudando *NodeJS*;
-
 - 💬  Pergunte-me sobre *HTML, CSS, React, MySQL, MongoDB, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!*
   
 - 📫 Entre em contato comigo pelo email *[tiago881@gmail.com](mailto:tiago881@gmail.com)*, ou se preferir, envie uma mensagem pelo linkedin;
